@@ -106,5 +106,6 @@ git branch --set-upstream-to=origin/master master
  <h2> 스냅샷  :: Git이 특정 시점에 프로젝트의 전체 파일 상태를 저장한 기록을 의미 </h2>
 <br>
 
-
+출처 1 : https://blog.naver.com/sqlpro/222555029055
+출처 2 : https://insapporo2016.tistory.com/53
 
