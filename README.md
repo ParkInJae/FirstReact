@@ -71,6 +71,7 @@ git branch --set-upstream-to=origin/master master
 
 
 <hr> 
+<h1>추가 내용 </h1>
 
 <h3> 로컬 브랜치 (Local Branch) :: Git을 사용하여 프로젝트를 관리하는 경우, 본인 컴퓨터에 존재하는 Git 저장소 내의 작업공간 (master브랜치나 feature 브랜치 등 )을 로컬 브랜치라고 함.  </h3> <br/>
 
